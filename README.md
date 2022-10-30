@@ -1,0 +1,2 @@
+# MiniServerFTP
+serwer plików
